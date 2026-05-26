@@ -107,8 +107,8 @@ git show <hash> // id likhni h isme
 
 
 <!-- Revert the changes -->
-git reset --hard <hashCode>
-git revert <hashcode>
+git reset --hard <hashCode> // used to point head last to second last or remove last commit
+git revert <hashcode> // used to remove any x  positon commit
 
 
 
