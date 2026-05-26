@@ -67,6 +67,7 @@ In Windows 11: Click the View dropdown (three dots) in the toolbar, then select 
 
 <!-- **************************** -->
 
+<!-- Initialize git -->
 git init
 
 git status
