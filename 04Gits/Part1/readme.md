@@ -101,7 +101,7 @@ git restore --staged <file>
 <!-- Get logs of commit -->
 git log
 got log --oneline
-git show <hash>
+git show <hash> // id likhni h isme 
 
 
 
