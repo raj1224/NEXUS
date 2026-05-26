@@ -72,7 +72,7 @@ git status
 <!-- What changes are staged , not staged, untracked-->
 
 
-<!-- git diff -->
+git diff
 q for exit
 <!-- What has been changed line by line in your report. -->
 <!-- it will show which parts of the report have been edited but are not yet staged for commit. -->
@@ -81,7 +81,7 @@ q for exit
 
 
 
-
+git init
 <!--Add file to staging area  -->
 git add .
 
